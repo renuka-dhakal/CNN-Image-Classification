@@ -1,0 +1,12 @@
+Description of the Dataset:
+The dataset is for Multi-Class, Single image classification. 
+There are two different folders:
+
+Train:
+It contains the training images of various classes.
+Test:
+It contains the images, of which your model should predict.
+
+
+The pictures are of various flowers and are divided into five classes: chamomile, tulip, rose, sunflower, dandelion.
+Each Class contains its corresponding flowers.
